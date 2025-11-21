@@ -203,7 +203,7 @@ impl Camera {
             theta: std::f32::consts::FRAC_PI_4,
             phi: std::f32::consts::FRAC_PI_6,
             roll: 0.0,
-            radius: 3.0,
+            radius: 3.5,
             target: Vec3::zero(),
             fov_y: 1.0,
         }
