@@ -1,5 +1,8 @@
-# Cubex
+# Cubex - 3D rubiks cube in your terminal that you can solve
 
+![Screen Recording 2025-11-20 at 8 33 45 PM](https://github.com/user-attachments/assets/55590869-c1b3-4abb-a94b-9936aa22415c)
+
+inspired by [this guys C cube](https://github.com/been-jamming/rubiks_cube/tree/master) and [this guys rust cube]()
 ## Controls
 
 | Action | Keys |
