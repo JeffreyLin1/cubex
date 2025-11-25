@@ -1,4 +1,4 @@
-# Cubex - 3D solvalble rubiks cube in the terminal on rust
+# Cubex
 
 ![Screen Recording 2025-11-20 at 8 33 45 PM](https://github.com/user-attachments/assets/55590869-c1b3-4abb-a94b-9936aa22415c)
 
